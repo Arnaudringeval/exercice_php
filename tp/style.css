@@ -1,10 +1,10 @@
 body
 {
     margin: 0 auto;
-    padding: 1em;
+    padding: 20px;
     min-height: 100%;
     width: 80%;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Arial', sans-serif;
 }
 form ul
 {
@@ -13,7 +13,7 @@ form ul
 }
 form ul li
 {
-    margin: 1em 0;
+    margin: 20px 0;
 }
 form ul li label
 {
@@ -23,9 +23,9 @@ form ul li label
 html
 {
     height: 100%;
-    background-color: #F8FFF2;
+    background-color: #b0b1af;
 }
 h1
 {
-    color: #00968B;
+    color: #000f96;
 }
